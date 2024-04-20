@@ -1,0 +1,33 @@
+.photo-avatar {
+    width: 50%;
+}
+
+.user {
+    text-align: center;
+}
+
+.photo-avatar {
+    border-radius: 50%;
+}
+
+.user-infos {
+    text-align: left;
+    padding: 1.2rem 0 0.4rem 0;
+}
+
+.user-info {
+    display: flex;
+}
+
+.user-info svg {
+    margin-right: 0.5rem;
+}
+
+.loisir {
+    display: flex;
+    margin-left: 35px;
+}
+
+.loisir svg {
+    margin-right: 0.5rem;
+}

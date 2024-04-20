@@ -1,0 +1,23 @@
+.skills {
+    margin: 1.2rem;
+}
+
+.skill {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.circle {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+    border-radius: 50%;
+    background-color: #AAA;
+}
+
+.circle-full {
+    background-color: #555;
+}
+
